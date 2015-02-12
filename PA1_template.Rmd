@@ -1,9 +1,13 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
+output:
   html_document:
-    keep_md: true
+    keep_md: yes
+    fig_caption: yes
 ---
+
+Reproducible Research: Peer Assessment 1
+===========================================
+
 
 ## Loading and preprocessing the data
 ```{r, echo=TRUE}
